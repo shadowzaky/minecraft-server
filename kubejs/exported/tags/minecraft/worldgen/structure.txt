@@ -1,0 +1,200 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 22, 2023, 3:20:05 AM
+
+#environmental:has_healer_pouch
+- #minecraft:mineshaft (from environmental-1.19.2-3.0.0.jar)
+- minecraft:stronghold (from environmental-1.19.2-3.0.0.jar)
+
+#blue_skies:on_blinding_maps
+- blue_skies:everbright_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:everdawn_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:cats_spawn_in
+- minecraft:swamp_hut (from Default)
+- autumnity:maple_hut? (from autumnity-1.19.2-4.0.0.jar)
+
+#pneumaticcraft:no_oil_lakes
+- #minecraft:village (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#betterdungeons:better_dungeons
+- betterdungeons:small_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
+- betterdungeons:spider_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
+- betterdungeons:skeleton_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
+- betterdungeons:zombie_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
+- betterdungeons:small_nether_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
+
+#quark:soul_bead_target
+- minecraft:fortress (from Quark-3.4-395.jar)
+- betterfortresses:fortress? (from Quark-3.4-395.jar)
+
+#bettermineshafts:better_mineshafts
+- bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_dripstone (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_ice (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_jungle (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_lush (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mesa (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mushroom (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_oak (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_overgrown (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_red_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce_snowy (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#betterfortresses:better_fortresses
+- betterfortresses:fortress (from YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar)
+
+#minecraft:shipwreck
+- minecraft:shipwreck (from Default)
+- minecraft:shipwreck_beached (from Default)
+
+#blue_skies:gatekeeper_houses
+- blue_skies:gatekeeper_house_mountain (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:gatekeeper_house_plains (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:gatekeeper_house_snowy (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument (from Default)
+
+#blue_skies:tree_disallowed
+- #blue_skies:on_nature_maps (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_calming_skies (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_brightlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_sunset_maple_forest (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_slushlands (from blue_skies-1.19.2-1.3.20.jar)
+
+#blue_skies:on_poison_maps
+- blue_skies:poison_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+
+#supplementaries:way_sign_destinations
+- #minecraft:village (from supplementaries-1.19.2-2.2.64.jar)
+- hauntedharvest:abandoned_farm? (from supplementaries-1.19.2-2.2.64.jar)
+- harvestseason:abandoned_farm? (from supplementaries-1.19.2-2.2.64.jar)
+- pokecube_legends:village? (from supplementaries-1.19.2-2.2.64.jar)
+- pokecube_legends:village/ocean? (from supplementaries-1.19.2-2.2.64.jar)
+- valhelsia_structures:castle? (from supplementaries-1.19.2-2.2.64.jar)
+- valhelsia_structures:castle_ruin? (from supplementaries-1.19.2-2.2.64.jar)
+- valhelsia_structures:small_castle? (from supplementaries-1.19.2-2.2.64.jar)
+- valhelsia_structures:tower_ruin? (from supplementaries-1.19.2-2.2.64.jar)
+- stoneholm:underground_village? (from supplementaries-1.19.2-2.2.64.jar)
+- blue_skies:gatekeeper_house? (from supplementaries-1.19.2-2.2.64.jar)
+- feywild:library? (from supplementaries-1.19.2-2.2.64.jar)
+- feywild:blacksmith? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:bazaar? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:castle? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:farmhouse? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:bearclaw_inn? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:treetop_tavern? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:wizardtower? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:farmhouse? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:fishermans_lodge? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:beekeepers_house? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:desert_market/desert_market? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:desert_market/desert_market_red? (from supplementaries-1.19.2-2.2.64.jar)
+- idas:desert_market/desert_market_orange? (from supplementaries-1.19.2-2.2.64.jar)
+
+#morevillagers:on_fortress_explorer_maps
+- #betterfortresses:better_fortresses (from YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar)
+
+#betterstrongholds:better_strongholds
+- betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure (from Default)
+
+#morevillagers:on_mineshaft_explorer_maps
+- #bettermineshafts:better_mineshafts (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert (from Default)
+- minecraft:ruined_portal_jungle (from Default)
+- minecraft:ruined_portal_mountain (from Default)
+- minecraft:ruined_portal_nether (from Default)
+- minecraft:ruined_portal_ocean (from Default)
+- minecraft:ruined_portal (from Default)
+- minecraft:ruined_portal_swamp (from Default)
+
+#minecraft:village
+- minecraft:village_plains (from Default)
+- minecraft:village_desert (from Default)
+- minecraft:village_savanna (from Default)
+- minecraft:village_snowy (from Default)
+- minecraft:village_taiga (from Default)
+- blue_skies:village_calming_skies (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_brightlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_shaded_woodlands (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_sunset_maple_forest (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:village_slushlands (from blue_skies-1.19.2-1.3.20.jar)
+
+#supplementaries:adventure_map_destinations
+- #minecraft:village (from supplementaries-1.19.2-2.2.64.jar)
+- #minecraft:shipwreck (from supplementaries-1.19.2-2.2.64.jar)
+- #minecraft:mineshaft (from supplementaries-1.19.2-2.2.64.jar)
+- #minecraft:ocean_ruin (from supplementaries-1.19.2-2.2.64.jar)
+- #minecraft:ruined_portal (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:swamp_hut (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:bastion_remnant (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:jungle_pyramid (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:desert_pyramid (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:pillager_outpost (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:igloo (from supplementaries-1.19.2-2.2.64.jar)
+- minecraft:end_city (from supplementaries-1.19.2-2.2.64.jar)
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold (from Default)
+- minecraft:ocean_ruin_warm (from Default)
+
+#blue_skies:on_bunker_maps
+- blue_skies:frozen_bunker (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:mineshaft
+- minecraft:mineshaft (from Default)
+- minecraft:mineshaft_mesa (from Default)
+- bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_ice (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_jungle (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_lush (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mesa (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_mushroom (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_oak (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_red_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_spruce_snowy (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_overgrown (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+- bettermineshafts:mineshaft_dripstone (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion (from Default)
+
+#blue_skies:on_nature_maps
+- blue_skies:nature_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:cats_spawn_as_black
+- minecraft:swamp_hut (from Default)
+- autumnity:maple_hut? (from autumnity-1.19.2-4.0.0.jar)
+
+#valhelsia_structures:on_spawner_dungeon_explorer_maps
+- valhelsia_structures:spawner_dungeon (from valhelsia_structures-forge-1.19.2-1.0.1.jar)
+
+#blue_skies:dungeons
+- blue_skies:everbright_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:everdawn_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:nature_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+- blue_skies:poison_dungeon (from blue_skies-1.19.2-1.3.20.jar)
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold (from Default)
+- betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
+
+#alexsmobs:spawns_underminers
+- #minecraft:mineshaft (from alexsmobs-1.21.1.jar)
+
+#valhelsia_structures:on_castle_explorer_maps
+- valhelsia_structures:castle (from valhelsia_structures-forge-1.19.2-1.0.1.jar)
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin (from Default)
+- #minecraft:shipwreck (from Default)

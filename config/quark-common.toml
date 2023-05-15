@@ -34,6 +34,8 @@
 	"Enable Advancement Modification" = true
 	#Set to false to stop quark from adding its own advancements
 	"Enable Quark Advancements" = true
+	#Set to false to disable the popup message telling you that you can config quark in the q menu
+	"Enable Onboarding" = true
 
 [categories]
 	Automation = true
@@ -156,6 +158,12 @@
 	[building.thatch]
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
+		#This feature disables itself if any of the following mods are loaded: 
+		# - goated
+		# - environmental
+		#This is done to prevent content overlap.
+		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
+		"Ignore Anti Overlap" = false
 
 	[building.rope]
 		#Set to true to allow ropes to move Tile Entities even if Pistons Push TEs is disabled.
@@ -257,7 +265,7 @@
 	"Expanded Item Interactions" = true
 	"Easy Transfering" = true
 	"Quick Armor Swapping" = true
-	"Automatic Took Restock" = true
+	"Automatic Tool Restock" = true
 
 	[management.item_sharing]
 		"Render Items In Chat" = true
@@ -281,7 +289,7 @@
 	[management.quick_armor_swapping]
 		"Swap Off Hand" = true
 
-	[management.automatic_took_restock]
+	[management.automatic_tool_restock]
 		#This feature disables itself if any of the following mods are loaded: 
 		# - inventorytweaks
 		#This is done to prevent content overlap.
@@ -422,6 +430,8 @@
 		#When enabled, Efficiency VI Diamond and Netherite pickaxes can instamine Deepslate when under Haste 2
 		"Deepslate Tweak" = true
 		"Deepslate Tweak Needs Haste2" = true
+		#Also applies a random curse along each book
+		"Curse Gear" = false
 
 	[tools.ambient_discs]
 		"Drop On Spider Kill" = true
@@ -489,6 +499,7 @@
 	"Gold Tools Have Fortune" = true
 	"Dyeable Item Frames" = true
 	"Coral On Cactus" = true
+	"Horses Swim" = true
 
 	[tweaks.utility_recipes]
 		#Can any wool color be dyed?
@@ -1208,6 +1219,14 @@
 		#Allowed values: [0,)
 		"Ancient City Loot Quality" = 1
 
+	[world.glimmering_weald]
+		#Experimental, dont change if you dont know what you are doing. Depth min value from which biome will spawn. Decreasing will make biome appear more often
+		#Allowed values: [-2,2]
+		"Min Depth Range" = 1.5499999523162842
+		#Experimental, dont change if you dont know what you are doing. Depth max value until which biome will spawn. Increasing will make biome appear more often
+		#Allowed values: [-2,2]
+		"Max Weirdness Range" = 2.0
+
 [mobs]
 	Wraith = true
 	Toretoise = true
@@ -1517,6 +1536,9 @@
 		"Disable Ice Roads" = true
 		#Makes Sheep not drop Wool when killed
 		"Disable Wool Drops" = true
+		#Disables mob griefing for only specific entities
+		"Enable Selective Mob Griefing" = true
+		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
 
 	[experimental.adjustable_chat]
 		"Horizontal Shift" = 0

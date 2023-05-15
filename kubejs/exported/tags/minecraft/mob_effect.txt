@@ -1,0 +1,26 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 22, 2023, 3:20:05 AM
+
+#neapolitan:unaffected_by_vanilla_scent
+- minecraft:darkness (from neapolitan-1.19.2-4.0.2.jar)
+- neapolitan:vanilla_scent (from neapolitan-1.19.2-4.0.2.jar)
+- autumnity:foul_taste? (from neapolitan-1.19.2-4.0.2.jar)
+- supplementaries:overencumbered? (from supplementaries-1.19.2-2.2.64.jar)
+
+#allurement:spread_of_ailments_cannot_inflict
+- minecraft:bad_omen (from allurement-1.19.2-3.1.0.jar)
+- minecraft:hero_of_the_village (from allurement-1.19.2-3.1.0.jar)
+- environmental:serenity? (from allurement-1.19.2-3.1.0.jar)
+
+#artifacts:antidote_vessel_cancellable
+- minecraft:blindness (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:nausea (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:mining_fatigue (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:hunger (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:levitation (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:slowness (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:poison (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:weakness (from artifacts-1.19.2-5.0.2.jar)
+- minecraft:wither (from artifacts-1.19.2-5.0.2.jar)
+
+#supplementaries:unaffected_by_vanilla_scent
+- supplementaries:overencumbered? (from supplementaries-1.19.2-2.2.64.jar)

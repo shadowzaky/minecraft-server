@@ -3,7 +3,7 @@
 
 # Edit the below values to change JVM Arguments or Allocated RAM for the server.
 JAVA_PATH="java"
-ALLOCATED_RAM="6G"
+ALLOCATED_RAM="20G"
 JVM_ARGUMENTS="-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AlwaysPreTouch"
 
 # Make sure this matches the Forge version of the server if you update.
