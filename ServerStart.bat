@@ -2,11 +2,11 @@
 REM Valhelsia 5 Server Startup Script
 
 REM Edit the below values to change JVM Arguments or Allocated RAM for the server.
-SET ALLOCATED_RAM=6G
+SET ALLOCATED_RAM=4G
 SET JVM_ARGUMENTS=-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AlwaysPreTouch
 
 REM Make sure this matches the Forge version of the server if you update.
-SET FORGE_VERSION=1.19.2-43.2.4
+SET FORGE_VERSION=1.19.2-43.2.10
 
 REM Install Minecraft Forge if it isn't already installed:
 if not exist .\libraries/net/minecraftforge/forge/%FORGE_VERSION% (

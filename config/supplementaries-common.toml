@@ -43,7 +43,7 @@
 		mod_blacklist = ["extlights", "betterendforge", "tconstruct", "enigmaticlegacy"]
 		#Allows ceiling lanterns to fall if their support is broken.Additionally if they fall from high enough they will break creating a fire where they land
 		#Allowed Values: ON, OFF, NO_FIRE
-		fallin_lanterns = "ON"
+		fallin_lanterns = "NO_FIRE"
 
 	[tweaks.bells_tweaks]
 		#Ring a bell by clicking on a chain that's connected to it
@@ -77,7 +77,7 @@
 		enabled = true
 		#bottling health cost
 		#Range: 0 ~ 20
-		cost = 2
+		cost = 0
 
 	[tweaks.map_tweaks]
 		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
@@ -208,6 +208,7 @@
 
 [functional]
 	fodder = true
+	hourglass = true
 	present = true
 
 	[functional.rope]
@@ -277,7 +278,7 @@
 		#Allows entities killed by spikes to drop loot as if they were killed by a player
 		player_loot = false
 		#Alternative mode for bamboo spikes. Allows only harmful effects to be applied on them and they obtain infinite durability
-		alternative_mode = true
+		only_allow_harmful_effects = true
 
 	[functional.urn]
 		enabled = true
@@ -313,7 +314,7 @@
 
 [building]
 	daub = true
-	ash_brick = true
+	ash_bricks = true
 	lapis_bricks = true
 	deepslate_lamp = true
 	end_stone_lamp = true
@@ -453,7 +454,7 @@
 		slots = 6
 		#Increase this number to alter the probability for a Skeleton with quiver to spawn. Note that this also depends on local difficulty so you wont ever see them on easy and very rarely on normal. Similar logic to equipment
 		#Range: 0.0 ~ 1.0
-		quiver_skeleton_chance = 0.2
+		quiver_skeleton_chance = 0.0
 		#Allows quiver to only be used when in offhand or in curio slot
 		only_works_in_curio = false
 		#Arrows you pickup will try to go in a quiver if available provided it has some arrow of the same type

@@ -56,6 +56,7 @@ const CONFIG_COMMAND_PERMISSION_LEVEL = 3;
  */
 const DEFAULT_CONFIG = {
   debug: false, // Debug mode - used to log additional information in scripts.
+  developer: false, // Developer mode - enables several additional commands to ease development.
   expert: false, // Expert mode - enables harder recipes.
 };
  
@@ -107,14 +108,14 @@ ServerEvents.commandRegistry(event => {
             const key = Arguments.STRING.getResult(ctx, 'key').toLowerCase();
             const value = Arguments.STRING.getResult(ctx, 'value');
             setConfig(key, value);
-            ctx.source.sendSuccess(Text.translate('valhelsia.config.updated', `${key}: '${global.config[key]}'.`), true);
+            ctx.source.sendSuccess(Text.translate('commands.valhelsia.config.updated', `${key}: '${global.config[key]}'.`), true);
             return 1;
           })
         )
         .executes((ctx) => {
           // Get current config entry (key).
           const key = Arguments.STRING.getResult(ctx, 'key');
-          ctx.source.sendSuccess(Text.translate('valhelsia.config.current', `${key}: '${global.config[key]}'.`), false);
+          ctx.source.sendSuccess(Text.translate('commands.valhelsia.config.current', `${key}: '${global.config[key]}'.`), false);
           return 1;
         })
       )

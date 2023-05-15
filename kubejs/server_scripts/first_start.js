@@ -22,7 +22,10 @@ PlayerEvents.loggedIn(event => {
     event.player.stages.add('first_start');
 
     event.player.tell(Text.translate('valhelsia.chat.first_start_message'));
-    event.player.tell(Text.translate('valhelsia.chat.discord').blue().underlined().click('https://discord.com/invite/rdfQuaM'));
+    event.player.tell(Text.translate('valhelsia.chat.discord_link').blue().underlined().click('https://discord.com/invite/rdfQuaM'));
+    event.player.tell(Text.translate('valhelsia.chat.wiki'));
+    event.player.tell(Text.translate('valhelsia.chat.wiki_link').blue().underlined().click('https://wiki.valhelsia.net/'));
+    event.player.tell(Text.translate('valhelsia.chat.last_start_message'));
 
     event.player.give(Item.of('akashictome:tome', AKASHIC_TOME_NBT));
   }

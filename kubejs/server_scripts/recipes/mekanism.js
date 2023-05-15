@@ -10,13 +10,16 @@
  * 
  * @see crushing.js for crushing recipes.
  * 
- * @copyright Valhelsia Inc 2022
+ * @copyright Valhelsia Inc 2023
  */
 
 /**
  * Mekanism Recipe Event Handler
  */
 ServerEvents.recipes(event => {
+
+  // Temporary fix: Disable Mekanism recipes until KubeJS Mekanism is fixed.
+  return;
   
   /**
    * Adds a recipe to fill a Metallurgic Infuser with a given type of infusion material.
@@ -43,8 +46,7 @@ ServerEvents.recipes(event => {
    * @param {(string|Ingredient)} input The item or item ID of the base block.
    */
   const mossify = (output, input) => {
-    // TODO: Uncomment below once KubeJS Mekanism has updated.
-    // event.recipes.mekanismMetallurgicInfusing(output, input, 'mekanism:bio', 10);
+    event.recipes.mekanismMetallurgicInfusing(output, input, 'mekanism:bio', 10);
   };
 
   /**
@@ -53,8 +55,7 @@ ServerEvents.recipes(event => {
    * @param {(string|Ingredient)} input The item or item ID of the base block.
    */
   const fungify = (output, input) => {
-    // TODO: Uncomment below once KubeJS Mekanism has updated.
-    // event.recipes.mekanismMetallurgicInfusing(output, input, 'mekanism:fungi', 10);
+    event.recipes.mekanismMetallurgicInfusing(output, input, 'mekanism:fungi', 10);
   };
 
   /**
@@ -64,8 +65,7 @@ ServerEvents.recipes(event => {
    * @param {number} quantity The number of Bio Fuel items to output.
    */
   const bioCrush = (input, quantity) => {
-    // TODO: Uncomment below once KubeJS Mekanism has updated.
-    // event.recipes.mekanismCrushing(`${quantity}x mekanism:bio_fuel`, input);
+    event.recipes.mekanismCrushing(`${quantity}x mekanism:bio_fuel`, input);
   };
 
   // Bio Fuel
@@ -75,13 +75,51 @@ ServerEvents.recipes(event => {
   // Remove specific biofuel crushing recipes in favour of using tags instead.
   [
     // Saplings
+    'mekanism:crushing/biofuel/oak_sapling',
+    'mekanism:crushing/biofuel/spruce_sapling',
+    'mekanism:crushing/biofuel/birch_sapling',
+    'mekanism:crushing/biofuel/jungle_sapling',
+    'mekanism:crushing/biofuel/acacia_sapling',
+    'mekanism:crushing/biofuel/dark_oak_sapling',
+    'mekanism:crushing/biofuel/mangrove_sapling',
 
     // Leaves
+    //'mekanism:crushing/biofuel/oak_leaves',
+    //'mekanism:crushing/biofuel/spruce_leaves',
+    //'mekanism:crushing/biofuel/birch_leaves',
+    //'mekanism:crushing/biofuel/jungle_leaves',
+    //'mekanism:crushing/biofuel/acacia_leaves',
+    //'mekanism:crushing/biofuel/dark_oak_leaves',
+    //'mekanism:crushing/biofuel/azalea_leaves',
+    //'mekanism:crushing/biofuel/mangrove_leaves',
 
     // Seeds
+    'mekanism:crushing/biofuel/beetroot_seeds',
+    'mekanism:crushing/biofuel/melon_seeds',
+    'mekanism:crushing/biofuel/pumpkin_seeds',
+    'mekanism:crushing/biofuel/wheat_seeds',
 
     // Flowers
+    'mekanism:crushing/biofuel/dandelion',
+    'mekanism:crushing/biofuel/poppy',
+    'mekanism:crushing/biofuel/blue_orchid',
+    'mekanism:crushing/biofuel/allium',
+    'mekanism:crushing/biofuel/azure_bluet',
+    'mekanism:crushing/biofuel/red_tulip',
+    'mekanism:crushing/biofuel/orange_tulip',
+    'mekanism:crushing/biofuel/white_tulip',
+    'mekanism:crushing/biofuel/pink_tulip',
+    'mekanism:crushing/biofuel/oxeye_daisy',
+    'mekanism:crushing/biofuel/cornflower',
+    'mekanism:crushing/biofuel/lily_of_the_valley',
+    'mekanism:crushing/biofuel/wither_rose',
+    'mekanism:crushing/biofuel/sunflower',
+    'mekanism:crushing/biofuel/lilac',
+    'mekanism:crushing/biofuel/rose_bush',
+    'mekanism:crushing/biofuel/peony',
 
+    'mekanism:crushing/biofuel/melon_slice', // #blameurmet
+    
     // TODO: More as tags are created / expanded.
     // See default recipes here: https://github.com/mekanism/Mekanism/tree/1.18.x/src/datagen/generated/mekanism/data/mekanism/recipes/crushing/biofuel
   ].forEach((recipeID) => event.remove({id: recipeID}));
@@ -89,16 +127,20 @@ ServerEvents.recipes(event => {
   bioCrush('#minecraft:flowers', 5);
   bioCrush('#minecraft:saplings', 2);
   bioCrush('#forge:seeds', 2);
+  bioCrush('minecraft:melon_slice', 2); // #blameurmet
 
   // Coal Coke -> Carbon / Enriched Carbon
-  //event.recipes.mekanismEnriching('2x mekanism:enriched_carbon', '#forge:coal_coke');
+  event.recipes.mekanismEnriching('2x mekanism:enriched_carbon', '#forge:coal_coke');
   infusionConversion('mekanism:carbon', '#forge:coal_coke', 40);
   infusionConversion('mekanism:carbon', '#forge:dusts/coal_coke', 40);
+
+  // Enrichment
+  event.recipes.mekanismEnriching('forbidden_arcanus:arcane_crystal', '#forge:dusts/arcane_crystal');
 
   // Fungification
   // TODO: Fungification
 
   // Mossification
-  // TODO: Mossification
-  
+  mossify('darkerdepths:mossy_grimestone', 'darkerdepths:grimestone');
+
 });
