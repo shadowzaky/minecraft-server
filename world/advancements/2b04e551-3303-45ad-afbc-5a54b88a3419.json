@@ -1,0 +1,945 @@
+{
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2023-04-25 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2023-04-26 02:07:51 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2023-04-27 00:14:05 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2023-04-23 01:11:24 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "melon": "2023-04-29 01:48:58 +0000"
+    },
+    "done": false
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2023-04-29 00:23:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2023-04-29 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2023-04-25 02:11:38 +0000",
+      "head_right": "2023-04-25 02:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2023-05-02 00:47:42 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_4": {
+    "criteria": {
+      "head_left": "2023-04-25 02:27:33 +0000",
+      "head_right": "2023-04-25 02:27:37 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-04-23 18:21:20 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2023-04-28 02:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-05-03 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_integrity": {
+    "criteria": {
+      "module": "2023-04-25 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2023-05-03 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2023-05-09 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2023-04-26 00:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-05-02 01:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2023-05-03 02:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2023-05-03 02:41:21 +0000"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2023-05-02 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_2": {
+    "criteria": {
+      "stone_left": "2023-04-25 02:09:52 +0000",
+      "stone_right": "2023-04-25 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2023-04-27 01:57:22 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2023-04-25 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2023-05-03 01:52:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2023-04-23 18:28:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2023-04-23 18:21:20 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2023-04-23 01:35:57 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pickup": "2023-05-02 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2023-04-28 00:22:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2023-04-24 00:32:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_improvement_hone": {
+    "criteria": {
+      "tempered": "2023-04-25 02:32:11 +0000",
+      "serrated": "2023-04-25 02:32:07 +0000"
+    },
+    "done": false
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2023-04-24 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2023-04-25 00:59:46 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2023-04-23 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2023-05-02 00:41:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2023-04-28 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup_lexicon": {
+    "criteria": {
+      "pickup": "2023-05-02 02:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2023-04-29 02:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2023-04-25 00:34:21 +0000",
+      "seasonals:roasted_pumpkin": "2023-04-25 01:43:29 +0000",
+      "potato": "2023-04-24 00:37:48 +0000",
+      "bread": "2023-04-28 02:00:06 +0000",
+      "rotten_flesh": "2023-04-23 17:38:31 +0000",
+      "melon_slice": "2023-04-26 00:18:10 +0000",
+      "cooked_porkchop": "2023-04-23 18:21:15 +0000",
+      "cooked_chicken": "2023-04-24 01:01:12 +0000",
+      "cooked_mutton": "2023-04-23 18:52:45 +0000",
+      "apple": "2023-04-23 18:40:33 +0000"
+    },
+    "done": false
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2023-04-25 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2023-05-03 02:38:54 +0000"
+    },
+    "done": true
+  },
+  "cave_enhancements:spelunker_voyage": {
+    "criteria": {
+      "lush_caves": "2023-05-03 01:38:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2023-04-23 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2023-05-03 02:02:47 +0000"
+    },
+    "done": true
+  },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2023-04-27 00:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-04-25 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2023-04-25 01:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2023-04-23 18:44:32 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2023-04-23 00:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-04-23 01:08:50 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2023-04-25 00:41:36 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/rack": {
+    "criteria": {
+      "rack": "2023-05-05 02:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_farmer": {
+    "criteria": {
+      "farmer": "2023-05-05 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_library": {
+    "criteria": {
+      "library": "2023-05-10 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2023-05-10 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2023-04-23 01:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-04-25 02:33:28 +0000"
+    },
+    "done": true
+  },
+  "trolldom:discovery/root": {
+    "criteria": {
+      "always": "2023-04-23 00:58:33 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/shield_upgrade": {
+    "criteria": {
+      "module": "2023-05-05 02:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2023-04-23 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-04-23 00:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2023-04-23 18:44:32 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2023-05-02 01:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2023-04-23 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-04-28 02:12:17 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2023-04-28 00:40:37 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2023-04-23 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2023-05-02 00:44:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2023-04-28 02:20:37 +0000"
+    },
+    "done": true
+  },
+  "cave_enhancements:below_zero": {
+    "criteria": {
+      "below_y_zero": "2023-04-25 00:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-05-03 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2023-04-23 00:58:33 +0000",
+      "shrubland": "2023-04-23 01:11:32 +0000",
+      "rocky_shrubland": "2023-04-26 02:04:34 +0000",
+      "scrubland": "2023-04-23 01:11:20 +0000",
+      "old_growth_woodland": "2023-04-23 01:10:04 +0000",
+      "wooded_wasteland": "2023-04-28 00:59:38 +0000",
+      "crystalline_chasm": "2023-05-03 02:27:44 +0000",
+      "withered_abyss": "2023-05-03 02:27:42 +0000",
+      "lavender_forest": "2023-04-23 01:15:42 +0000",
+      "mediterranean_forest": "2023-04-23 01:17:56 +0000",
+      "spider_nest": "2023-04-26 02:03:50 +0000",
+      "wasteland": "2023-04-28 01:00:35 +0000",
+      "lush_desert": "2023-04-28 00:29:23 +0000",
+      "dune_beach": "2023-04-23 01:11:46 +0000",
+      "volcanic_plains": "2023-04-28 00:29:58 +0000",
+      "lavender_field": "2023-04-26 02:14:46 +0000",
+      "grassland": "2023-04-26 02:00:35 +0000",
+      "undergrowth": "2023-05-03 02:28:06 +0000",
+      "rainforest": "2023-05-03 01:37:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-04-23 17:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_barracks": {
+    "criteria": {
+      "barracks": "2023-05-10 03:28:11 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2023-04-23 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_fisherman": {
+    "criteria": {
+      "fisherman": "2023-04-25 01:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "atmospheric:rainforest_basin": "2023-04-26 01:59:32 +0000",
+      "atmospheric:rainforest": "2023-04-26 02:00:27 +0000",
+      "minecraft:beach": "2023-04-23 18:51:29 +0000",
+      "minecraft:mangrove_swamp": "2023-04-28 01:01:00 +0000",
+      "atmospheric:flourishing_dunes": "2023-04-28 00:19:29 +0000",
+      "minecraft:sparse_jungle": "2023-04-28 00:42:37 +0000",
+      "minecraft:river": "2023-04-23 01:09:59 +0000",
+      "minecraft:lukewarm_ocean": "2023-04-28 00:28:55 +0000",
+      "atmospheric:dunes": "2023-04-28 00:19:24 +0000",
+      "minecraft:forest": "2023-04-28 00:18:44 +0000",
+      "minecraft:lush_caves": "2023-05-03 01:38:02 +0000",
+      "minecraft:desert": "2023-04-28 00:29:02 +0000",
+      "minecraft:ocean": "2023-04-23 01:31:53 +0000",
+      "minecraft:jungle": "2023-05-03 01:37:34 +0000",
+      "atmospheric:sparse_rainforest_basin": "2023-04-28 00:17:04 +0000",
+      "minecraft:warm_ocean": "2023-04-28 00:31:29 +0000",
+      "minecraft:flower_forest": "2023-04-28 00:35:21 +0000",
+      "atmospheric:sparse_rainforest": "2023-04-26 01:59:40 +0000",
+      "minecraft:plains": "2023-04-26 02:10:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-04-23 01:25:56 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2023-04-27 02:06:11 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2023-04-23 18:17:30 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2023-04-25 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2023-04-23 01:29:11 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_cook": {
+    "criteria": {
+      "cook": "2023-04-25 02:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-04-23 17:38:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode_open": {
+    "criteria": {
+      "consume_geode": "2023-04-25 02:12:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2023-05-03 01:42:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2023-04-28 00:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2023-04-29 00:49:50 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2023-04-25 01:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2023-05-02 01:40:59 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2023-05-02 00:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-04-23 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2023-04-29 01:48:58 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "0": "2023-04-28 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "botania:main/cacophonium_craft": {
+    "criteria": {
+      "cacophonium": "2023-05-02 01:19:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "xercamusic:achievements/root": {
+    "criteria": {
+      "crafting_table": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2023-04-23 17:49:14 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2023-05-02 01:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder_2": {
+    "criteria": {
+      "builders_hut": "2023-04-27 02:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2023-04-25 01:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2023-04-26 02:26:35 +0000",
+      "minecraft:blaze": "2023-05-03 02:29:14 +0000",
+      "minecraft:skeleton": "2023-04-25 00:41:35 +0000",
+      "savage_and_ravage:creepie": "2023-05-02 01:28:26 +0000",
+      "minecraft:ghast": "2023-05-03 02:27:30 +0000",
+      "minecraft:vindicator": "2023-05-02 01:30:02 +0000",
+      "minecraft:magma_cube": "2023-05-03 02:32:15 +0000",
+      "minecraft:spider": "2023-04-23 01:16:13 +0000",
+      "minecraft:creeper": "2023-04-24 00:41:56 +0000",
+      "minecraft:phantom": "2023-05-10 00:30:18 +0000",
+      "minecraft:zombified_piglin": "2023-05-03 02:30:42 +0000",
+      "minecraft:witch": "2023-04-28 02:35:42 +0000",
+      "minecraft:wither_skeleton": "2023-05-03 02:29:05 +0000",
+      "minecraft:husk": "2023-04-28 01:06:58 +0000",
+      "minecraft:cave_spider": "2023-04-26 02:05:11 +0000",
+      "minecraft:enderman": "2023-04-26 01:51:55 +0000",
+      "neapolitan:plantain_spider": "2023-04-28 00:27:45 +0000",
+      "minecraft:zombie": "2023-04-23 01:08:29 +0000",
+      "quark:foxhound": "2023-05-05 02:15:49 +0000",
+      "minecraft:drowned": "2023-04-29 02:26:55 +0000",
+      "minecraft:zombie_villager": "2023-04-25 00:48:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-05-03 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2023-04-26 02:07:43 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-04-23 00:58:32 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2023-04-23 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2023-04-25 02:26:57 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-04-28 02:12:17 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2023-04-25 02:23:20 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2023-05-02 01:17:42 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pure_daisy_pickup": {
+    "criteria": {
+      "daisy": "2023-05-02 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2023-04-29 00:21:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2023-04-25 00:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2023-04-23 17:48:09 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2023-04-24 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-05-03 02:26:39 +0000"
+    },
+    "done": false
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2023-05-02 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "mekanism:playing_with_fire": {
+    "criteria": {
+      "flamethrower": "2023-05-10 03:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-04-26 02:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/fulfill_request": {
+    "criteria": {
+      "click_request_button_fulfill": "2023-05-02 01:03:24 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2023-04-27 02:06:25 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "aloe_vera": "2023-04-28 01:02:07 +0000",
+      "yucca_leaves": "2023-04-28 00:20:25 +0000",
+      "yucca_flower": "2023-04-28 00:19:50 +0000",
+      "barrel_cactus": "2023-04-28 00:21:59 +0000"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/toolbelt": {
+    "criteria": {
+      "toolbelt": "2023-04-25 02:14:46 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2023-04-23 00:58:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "pickaxe": "2023-04-25 02:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-04-28 00:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-04-23 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2023-04-23 18:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2023-05-03 01:32:14 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2023-04-23 01:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-04-23 18:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2023-04-23 18:28:10 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2023-04-25 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2023-04-28 00:22:23 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2023-05-04 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2023-04-25 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

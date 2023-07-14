@@ -1,0 +1,90 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2023-05-02 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "xercamusic:achievements/root": {
+    "criteria": {
+      "crafting_table": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2023-05-02 22:08:51 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-05-02 22:08:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2023-05-02 22:08:29 +0000",
+      "scrubland": "2023-05-02 22:09:27 +0000",
+      "old_growth_woodland": "2023-05-02 22:10:14 +0000",
+      "mediterranean_forest": "2023-05-02 22:09:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-05-04 00:25:31 +0000"
+    },
+    "done": true
+  },
+  "trolldom:discovery/root": {
+    "criteria": {
+      "always": "2023-05-02 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2023-05-02 22:09:15 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
