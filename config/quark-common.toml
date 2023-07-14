@@ -310,6 +310,8 @@
 		#Allow pulling items from one hotbar slot to another
 		"Check Hotbar" = false
 		"Unstackables Only" = false
+		#Any items you place in this list will be ignored by the restock feature
+		"Ignored Items" = ["botania:exchange_rod", "botania:dirt_rod", "botania:skydirt_rod", "botania:cobble_rod"]
 
 [tools]
 	Trowel = true
@@ -1549,6 +1551,13 @@
 	"Adjustable Chat" = false
 	"Spawner Replacer" = false
 	"Enchantments Begone" = false
+	#This feature generates Resource Pack Item Model predicates on the items defined in 'Items to Change'
+	#for the Enchantments defined in 'Enchantments to Register'.
+	#
+	#Example: if 'minecraft:silk_touch' is added to 'Enchantments to Register', and 'minecraft:netherite_pickaxe'
+	#is added to 'Items to Change', then a predicate named 'quark_has_enchant_minecraft_silk_touch' will be available
+	#to the netherite_pickaxe.json item model, whose value will be the enchantment level.
+	"Enchantment Predicates" = false
 
 	[experimental.overlay_shader]
 		#Sets the name of the shader to load on a regular basis. This can load any shader the Camera module can (and requires the Camera module enabled to apply said logic).
@@ -1583,6 +1592,10 @@
 
 	[experimental.enchantments_begone]
 		"Enchantments To Begone" = []
+
+	[experimental.enchantment_predicates]
+		"Items To Change" = []
+		"Enchantments To Register" = []
 
 [oddities]
 	"Totem Of Holding" = true

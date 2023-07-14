@@ -346,4 +346,8 @@
 	#If a Drone has found a path, but gets stuck on a block along that path, it will teleport to its destination after this many ticks of being stuck. Set this to 0 to disable teleporting, which will likely leave the drone waiting there forever (or until it runs out of air). Note that getting stuck on a block is usually the fault of the mod that added the block (especially if the block has a non-full-cube shape), but if you encounter this behaviour, please report it as a PneumaticCraft: Repressurized issue so it can be investigated.
 	#Range: > 0
 	stuck_drone_teleport_ticks = 20
+	#When true, drones can query the location of any player on the server with the '$player=<name>' variable syntax. Set this to false if you don't want to allow this, e.g. on a PvP server, where this can turn drones into lethal assassins.
+	allowAnyPlayerVarQuery = true
+	#When true, drones can teleport into areas protected by Security Stations of other player. You may wish to set this to false on PvP servers.
+	allowTeleportToProtectedArea = true
 

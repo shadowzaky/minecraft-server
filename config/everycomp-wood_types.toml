@@ -153,6 +153,8 @@
 			concrete_leaded = true
 			insulating_glass = true
 			alloybrick = true
+			hempcrete_brick = true
+			concrete_brick = true
 
 		[types.cut_block_type.ecologics]
 			coconut = true
@@ -594,6 +596,91 @@
 			aurum = true
 			edelwood = true
 
+		[types.cut_block_type.createdeco]
+			worn_bricks = true
+			worn_brick_tiles = true
+			worn_long_bricks = true
+			worn_short_bricks = true
+			cracked_worn_bricks = true
+			cracked_worn_brick_tiles = true
+			cracked_worn_long_bricks = true
+			cracked_worn_short_bricks = true
+			mossy_worn_bricks = true
+			mossy_worn_brick_tiles = true
+			mossy_worn_long_bricks = true
+			mossy_worn_short_bricks = true
+			blue_bricks = true
+			blue_brick_tiles = true
+			blue_long_bricks = true
+			blue_short_bricks = true
+			cracked_blue_bricks = true
+			cracked_blue_brick_tiles = true
+			cracked_blue_long_bricks = true
+			cracked_blue_short_bricks = true
+			mossy_blue_bricks = true
+			mossy_blue_brick_tiles = true
+			mossy_blue_long_bricks = true
+			mossy_blue_short_bricks = true
+			red_brick_tiles = true
+			red_long_bricks = true
+			red_short_bricks = true
+			cracked_red_bricks = true
+			cracked_red_brick_tiles = true
+			cracked_red_long_bricks = true
+			cracked_red_short_bricks = true
+			mossy_red_bricks = true
+			mossy_red_brick_tiles = true
+			mossy_red_long_bricks = true
+			mossy_red_short_bricks = true
+			dusk_bricks = true
+			dusk_brick_tiles = true
+			dusk_long_bricks = true
+			dusk_short_bricks = true
+			cracked_dusk_bricks = true
+			cracked_dusk_brick_tiles = true
+			cracked_dusk_long_bricks = true
+			cracked_dusk_short_bricks = true
+			mossy_dusk_bricks = true
+			mossy_dusk_brick_tiles = true
+			mossy_dusk_long_bricks = true
+			mossy_dusk_short_bricks = true
+			dean_bricks = true
+			dean_brick_tiles = true
+			dean_long_bricks = true
+			dean_short_bricks = true
+			cracked_dean_bricks = true
+			cracked_dean_brick_tiles = true
+			cracked_dean_long_bricks = true
+			cracked_dean_short_bricks = true
+			mossy_dean_bricks = true
+			mossy_dean_brick_tiles = true
+			mossy_dean_long_bricks = true
+			mossy_dean_short_bricks = true
+			pearl_bricks = true
+			pearl_brick_tiles = true
+			pearl_long_bricks = true
+			pearl_short_bricks = true
+			cracked_pearl_bricks = true
+			cracked_pearl_brick_tiles = true
+			cracked_pearl_long_bricks = true
+			cracked_pearl_short_bricks = true
+			mossy_pearl_bricks = true
+			mossy_pearl_brick_tiles = true
+			mossy_pearl_long_bricks = true
+			mossy_pearl_short_bricks = true
+			scarlet_bricks = true
+			scarlet_brick_tiles = true
+			scarlet_long_bricks = true
+			scarlet_short_bricks = true
+			cracked_scarlet_bricks = true
+			cracked_scarlet_brick_tiles = true
+			cracked_scarlet_long_bricks = true
+			cracked_scarlet_short_bricks = true
+			mossy_scarlet_bricks = true
+			mossy_scarlet_brick_tiles = true
+			mossy_scarlet_long_bricks = true
+			mossy_scarlet_short_bricks = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.ars_nouveau]
@@ -813,6 +900,8 @@
 		[entries.wood_type.valhelsia_structures]
 			cut_post = true
 			post = true
+			stripped_post = true
+			cut_stripped_post = true
 
 		[entries.wood_type.decorative_blocks]
 			beam = true
@@ -841,4 +930,5 @@
 			chest = true
 			stripped_post = true
 			ladder = true
+			hollow_log = true
 
