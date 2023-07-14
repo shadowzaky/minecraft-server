@@ -1,0 +1,9 @@
+{
+  "uuid": "9fd92d04-6b67-447a-899e-fb6398d99bc8",
+  "name": "secretwolf",
+  "currencies": [
+    {
+      "eights_economy:dollars": 0.0
+    }
+  ]
+}

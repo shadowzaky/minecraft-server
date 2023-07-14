@@ -1,0 +1,9 @@
+{
+  "uuid": "8e1af2cf-6fa6-4bcf-8b97-01ee348f5014",
+  "name": "Symnel",
+  "currencies": [
+    {
+      "eights_economy:dollars": 0.0
+    }
+  ]
+}
