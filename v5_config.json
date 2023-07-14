@@ -1,4 +1,5 @@
 {
 	"debug": false,
-	"expert": false
+	"expert": false,
+	"developer": false
 }
